@@ -16,12 +16,6 @@
 </div>
 
 <div dir="rtl" style="text-align: right;">
-   <h4>   -الحركات النسوية العربية والإسلامية ودورها في دعم الحقوق السياسية للمرأة (Arab And Islamic Feminist Movements And Their Role In Supporting Women's Political Rights) </h4>
-   <p>   مجلة الاجتهاد للدراسات القانونية والاقتصادية
-Volume 12, Numéro 1, Pages 440-453
-2023-01-31 </p>
-   <br>
-<div dir="rtl" style="text-align: right;">
 <a
 href = "https://www.asjp.cerist.dz/en/article/214994">-الحركات النسوية العربية والإسلامية ودورها في دعم الحقوق السياسية للمرأة (Arab And Islamic Feminist Movements And Their Role In Supporting Women's Political Rights)</a>
 </div>
@@ -29,8 +23,6 @@ href = "https://www.asjp.cerist.dz/en/article/214994">-الحركات النسو
 Volume 12, Numéro 1, Pages 440-453
 2023-01-31 </p>
 
-
-[Project 2 Title](/pdf/sample_presentation.pdf)
 
 
 
