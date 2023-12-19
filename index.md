@@ -47,6 +47,10 @@ Volume 12, Numéro 1, Pages 440-453
 2023-01-31 </p>
 
 
+<br>
+<div dir="rtl" style="text-align: right;">
+   <h2>    الملتقيات و المؤتمرات   :   </h2>
+</div>
 
 
 <div dir="rtl" style="text-align: right;">
