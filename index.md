@@ -1,6 +1,6 @@
 #   أستاذ مساعد قسم ب
 # Maître-Assistant Classe B
-<div dir="rtl" style="test-align: right;>
+<div dir="rtl" style="text-align: right;>
   ## كلية الحقوق و العلوم السياسية - جامعة سطيف 2  
 </div>
 ---
