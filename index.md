@@ -6,7 +6,8 @@ title: test
 <div dir="rtl" style="text-align: right;>
    <h2> لية الحقوق و العلوم السياسية - جامعة سطيف 2  </h2>
 </div>
-[dir=rtl"]{
+   
+[dir="rtl"]{
 direction: rtl;
 text-align: right;
 }
